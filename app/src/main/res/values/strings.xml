@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AI-Home</string>
+    <string name="title_activity_room">RoomActivity</string>
+    <string name="title_activity_find">FindActivity</string>
+</resources>
